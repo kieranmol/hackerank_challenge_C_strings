@@ -26,7 +26,7 @@ int main()
     
     cout << lenghtOfFourAlphaCharacters << " " << lenghtOftwoAlphaCharacters << "\n";
     cout << sumOfFourPlustwoAlphaCharacters << "\n";
-    cout << char0_twoAlphaCharacters << char1_FourAlphaCharacters << char2_FourAlphaCharacters << char3_FourAlphaCharacters << " " << char0_FourAlphaCharacters << char1_twoAlphaCharacters << "\n";
+    cout << char0_twoAlphaCharacters << char1_FourAlphaCharacters << char2_FourAlphaCharacters << char3_FourAlphaCharacters << " " << char0_FourAlphaCharacters << char1_twoAlphaCharacters << "\n\n";
     
 	return 0;
 }
